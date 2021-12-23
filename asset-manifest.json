@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mauka-assignment/static/css/main.2dd144a4.css",
+    "main.js": "/mauka-assignment/static/js/main.c5032954.js",
+    "static/media/G134.png": "/mauka-assignment/static/media/G134.efbd04e6268097ab709a.png",
+    "static/media/jane-doe.png": "/mauka-assignment/static/media/jane-doe.1c9d97da85d5207c36db.png",
+    "static/media/flower.png": "/mauka-assignment/static/media/flower.71ea1be15212abc1953e.png",
+    "static/media/G229.png": "/mauka-assignment/static/media/G229.3fc7b986e3e2c64123f5.png",
+    "static/media/Blog1.png": "/mauka-assignment/static/media/Blog1.e8bc3dc5e93a843c84c6.png",
+    "static/media/Blog2.png": "/mauka-assignment/static/media/Blog2.426912a65e01dce2c3f9.png",
+    "static/media/Blog3.png": "/mauka-assignment/static/media/Blog3.8817904df2ac444907e4.png",
+    "static/media/logo-big.png": "/mauka-assignment/static/media/logo-big.317690fe2485050e6e8f.png",
+    "index.html": "/mauka-assignment/index.html",
+    "main.2dd144a4.css.map": "/mauka-assignment/static/css/main.2dd144a4.css.map",
+    "main.c5032954.js.map": "/mauka-assignment/static/js/main.c5032954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dd144a4.css",
+    "static/js/main.c5032954.js"
+  ]
+}
