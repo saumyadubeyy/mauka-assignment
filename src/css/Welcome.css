@@ -1,0 +1,40 @@
+.welcome {
+ text-align: center;
+ margin-top: 3.34rem;
+}
+
+.welcome h3 {
+ height: 3rem;
+ margin: 0.904rem auto 1.188rem;
+ font-size: 2.25rem;
+ font-weight: normal;
+ line-height: 1.33;
+ color: #374b5c;
+}
+
+welcome-text {
+ width: 35.5rem;
+ height: 2.625rem;
+ margin: 1.88rem auto 5.13rem;
+ font-size: 1rem;
+ line-height: 1.31;
+ color: #374b5c;
+}
+
+.cards {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ width: 100%;
+}
+
+.card {
+ text-align: center;
+ position: relative;
+ width: 14.043rem;
+ height: 17.495rem;
+ margin: 2.13rem 1.207rem 2.125rem;
+ padding: 1.274rem 1.313rem 1.188rem;
+ align-items: center;
+ border-radius: 20px;
+}

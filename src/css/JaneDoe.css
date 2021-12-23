@@ -1,0 +1,36 @@
+.jane-doe {
+ text-align: center;
+ margin-top: 2.313rem;
+ height: 28.75rem;
+}
+
+.jane-doe-img {
+ width: 7.099rem;
+ height: 7.099rem;
+ margin: 1.873rem auto 1.156rem;
+ border: solid 1px #707070;
+ border-radius: 100%;
+}
+
+.jane-doe-name {
+ margin: 1.156rem auto;
+ font-size: 1.625rem;
+ color: #374b5c;
+ line-height: 1.35;
+}
+
+.jane-doe-text {
+ width: 40.875rem;
+ margin: auto;
+ height: 6.313rem;
+ font-size: 1rem;
+ line-height: 2.5;
+ color: #374b5c;
+}
+
+.leaves { 
+ position: relative;
+ height: 80.813rem;
+ bottom: 40rem;
+ right: 65rem;
+}

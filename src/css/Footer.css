@@ -1,0 +1,94 @@
+footer {
+ position: relative;
+ text-align: center;
+ height: 20.75rem;
+ margin: auto;
+ text-align: center;
+ width: 83.375rem;
+}
+
+.wave {
+ max-width: 100%;
+ max-height: 100%; 
+ object-fit: contain;
+}
+
+.footer .left {
+ position: absolute;
+ top: 4.8rem;
+ left: 5rem;
+ color: #fff;
+ text-align: left;
+}
+
+.left p {
+ width: 19.938rem;
+ height: 2.75rem;
+ margin-top: 2rem;
+ font-size: 0.875rem;
+ line-height: 1.79;
+}
+
+.left div {
+ width: 12.438rem;
+ height: 1.188rem;
+ margin-top: 2rem;
+ font-size: 0.875rem;
+ font-weight: bold;
+ line-height: 1.36;
+ color: #fff;
+}
+
+.footer .centre {
+ position: absolute;
+ color: #fff;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ height: 10rem;
+ transform: translate(-50%, -50%);
+}
+
+.footer h3 {
+ width: 5.688rem;
+ margin: 0.895rem auto;
+ height: 1.513rem;
+ font-size: 1rem;
+ font-weight: bold;
+ line-height: 1.31;
+ border-bottom: 2px solid #00dbd0;
+}
+
+.centre-text {
+ margin-top: 0.875rem;
+ text-align: center
+}
+
+.centre div {
+ width: 10.625rem;
+ height: 1.188rem;
+ font-size: 0.875rem;
+ padding: 0.279rem;
+ line-height: 1.36;
+}
+
+.footer .right {
+ position: absolute;
+ top: 5.3rem;
+ right: 15rem;
+ color: #fff;
+}
+
+.right img {
+ position: relative;
+ right: -1.2rem;
+ padding: 0.55rem;
+ border: none;
+ transition: 0.2s top;
+ bottom: 0;
+}
+
+.right img:hover {
+ bottom: 2px;
+ cursor: pointer;
+}

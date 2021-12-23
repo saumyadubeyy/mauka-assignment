@@ -1,0 +1,64 @@
+.subscribe {
+ width: 85.375rem;
+ height: 25.75rem;
+ margin: auto;
+ text-align: center;
+}
+.subscribe-text {
+ width: 37.938rem;
+ height: 3rem;
+ margin: 12.938rem auto 1.888rem;
+ font-size: 2.25rem;
+ line-height: 1.33;
+ font-weight: normal;
+ color: #374b5c;
+}
+   
+.subscribe p {
+ width: 40.5rem;
+ height: 2.625rem;
+ margin: auto;
+ font-size: 1rem;
+ line-height: 1.31;
+ color: #374b5c;
+}   
+ 
+.input {
+ width: 35.563rem;
+ height: 4.313rem;
+ margin: 5rem auto;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.input input {
+ width: 35.563rem;
+ height: 4.313rem;
+ background-color: transparent;
+ padding: 0 0 0 3.531rem;
+ border-radius: 30px;
+ outline: none;
+ border: none;
+ font-size: 1.125rem;
+ line-height: 1.33;
+ color: #374b5c;
+}
+.input input:hover{
+ cursor: pointer;
+}
+.input button {
+ font-size: 1.125rem;
+ line-height: 1.33;
+ width: 10.438rem;
+ height: 4.313rem;
+ border-radius: 30px;
+ border: none;
+ background-color: #00dbd0;
+ padding: 1.313rem 2.844rem 1.5rem;
+ color: #fff;
+}
+   
+.input button:hover {
+ cursor: pointer;
+ background-color: #374b5c;
+}

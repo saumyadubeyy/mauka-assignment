@@ -1,0 +1,79 @@
+.homepage {
+ height: 48rem;
+ margin: auto;
+}
+
+.healthy-life {
+ padding: 1.154rem 7.313rem 6.625rem 8.688rem;
+ float: left;
+}
+
+.healthy-life-with {
+ width: 16rem;
+ height: 3rem;
+ margin: 9.933rem 19.25rem 6.5rem 0;
+ font-size: 2.25rem;
+ font-weight: normal;
+ line-height: 1.33;
+ color: #374b5c;
+}
+
+.nature-organic {
+ width: 25.25rem;
+ height: 4.625rem;
+ margin: 12.621rem 10rem 2.188rem 0;
+ font-size: 3.5rem;
+ font-weight: bold;
+ line-height: 1.32;
+ color: #374b5c;
+}
+
+.healthy-life p {
+ width: 24.313rem;
+ height: 3.375rem;
+ font-size: 1.25rem;
+ margin: 2.188rem 10.938rem 2.188rem 0;
+ line-height: 1.35;
+ color: #374b5c;
+}
+
+.explore {
+ width: 13.75rem;
+ height: 3.375rem;
+ margin: 2.188rem 21.5rem 7.188rem 0;
+ padding: 0.875rem 4rem 1rem 3rem;
+ border-radius: 10px;
+ border: none;
+ font-size: 1rem;
+ font-weight: bold;
+ background-color: #00dbd0;
+ color: #fff;
+}
+
+.explore:hover{
+ background-color: #374b5c;
+ cursor: pointer;
+}
+
+.images { 
+ top: 0;
+ left: 0;
+ right: 0;
+}
+
+.big-logo {
+ padding: 4.029rem 4.081rem 4.063rem 4.125rem;
+ border: solid 3px #00dbd0;
+ left: 62.9575%;
+ top: 7.25728%;
+}
+
+.flower {
+ margin: 18.25rem 21.063rem 0.34rem 7.438rem;
+ width: 26.188rem;
+ height: 36.625rem; 
+ position: relative;
+ left: 31.5rem;
+ bottom: 53rem;
+ z-index: 1;
+}

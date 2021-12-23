@@ -1,0 +1,32 @@
+.presented-by {
+ margin-top: 3.95rem;
+ text-align: center;
+ width: 85.375rem;
+ height: 25.75rem;
+}
+.presented-by h3 {
+ height: 3rem;
+ margin: 1.188rem auto;
+ font-size: 2.25rem;
+ line-height: 1.33;
+ color: #374b5c;
+ font-weight: normal;
+}
+
+.presented-by span {
+ font-size: 1rem;
+ width: 35.5rem;
+ height: 2.625rem;
+ margin: 1.188rem auto 3.875rem ;
+}
+
+.paths {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ margin: 5.125rem auto 1.313rem;
+}
+
+.path {
+ padding: 2.667rem 3.321rem;
+}
